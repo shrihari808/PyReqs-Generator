@@ -1,0 +1,5 @@
+{
+  "name": "PyReqs Generator",
+  "description": "An intelligent tool that analyzes your Python codebase to automatically generate a comprehensive `requirements.txt` file, complete with version specifications detected from your code.",
+  "requestFramePermissions": []
+}
